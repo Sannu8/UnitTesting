@@ -1,0 +1,23 @@
+{
+  "name": "unittest",
+  "version": "1.0.0",
+  "description": "This project is only for testing purposes.",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sandhya Mahat",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sannu8/UnitTesting.git"
+  },
+  "keywords": ["Unit", "Testing"],
+  "bugs": {
+    "url": "https://github.com/Sannu8/UnitTesting/issues"
+  },
+  "homepage": "https://github.com/Sannu8/UnitTesting#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
