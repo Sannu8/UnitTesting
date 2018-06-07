@@ -3,3 +3,7 @@ function sum(a, b) {
 }
 
 module.exports = sum;
+
+
+const food = ['rice', 'chicken', 'dal', 'momo'];
+
